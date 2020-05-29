@@ -1,0 +1,24 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "normalize.css": "^8.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odedahay/travel-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/odedahay/travel-theme/issues"
+  },
+  "homepage": "https://github.com/odedahay/travel-theme#readme",
+  "description": ""
+}
